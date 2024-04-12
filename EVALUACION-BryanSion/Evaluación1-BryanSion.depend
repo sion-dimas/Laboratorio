@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1711086226 source:c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"Cliente.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711080099 c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\include\fecha.h
+
+1711080217 c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\include\cliente.h
+	<iostream>
+	<string.h>
+	<string.h>
+
+1711080099 c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\include\pago.h
+	"Fecha.h"
+
+1711080099 c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711080099 source:c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\src\pago.cpp
+	"Pago.h"
+
+1711080099 source:c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\src\cliente.cpp
+	"Cliente.h"
+
+1711080099 source:c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\src\prestamo.cpp
+	"Prestamo.h"
+
+1711080272 source:c:\users\kenda\documents\laboratorio__programacion\evaluación1-bryansion\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string.h>
+
+1712931881 source:c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"Cliente.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711080100 c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\include\fecha.h
+
+1711080218 c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\include\cliente.h
+	<iostream>
+	<string.h>
+	<string.h>
+
+1711080100 c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\include\pago.h
+	"Fecha.h"
+
+1711080100 c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711080100 source:c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\src\cliente.cpp
+	"Cliente.h"
+
+1712931811 source:c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string.h>
+
+1711080100 source:c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\src\pago.cpp
+	"Pago.h"
+
+1711080100 source:c:\users\pc38-a24\documents\progra_ii_07\evaluación1-bryansion\src\prestamo.cpp
+	"Prestamo.h"
+
+1711080100 source:c:\users\kenda\documents\evaluación1-bryansion\src\cliente.cpp
+	"Cliente.h"
+
+1711080218 c:\users\kenda\documents\evaluación1-bryansion\include\cliente.h
+	<iostream>
+	<string.h>
+	<string.h>
+
+1712931812 source:c:\users\kenda\documents\evaluación1-bryansion\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string.h>
+
+1711080100 c:\users\kenda\documents\evaluación1-bryansion\include\fecha.h
+
+1711080100 source:c:\users\kenda\documents\evaluación1-bryansion\src\pago.cpp
+	"Pago.h"
+
+1711080100 c:\users\kenda\documents\evaluación1-bryansion\include\pago.h
+	"Fecha.h"
+
+1711080100 source:c:\users\kenda\documents\evaluación1-bryansion\src\prestamo.cpp
+	"Prestamo.h"
+
+1711080100 c:\users\kenda\documents\evaluación1-bryansion\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1712940868 source:c:\users\kenda\documents\evaluación1-bryansion\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fecha.h"
+	"Cliente.h"
+	"Pago.h"
+	"Prestamo.h"
+
